@@ -21,7 +21,7 @@ The [post](https://mp.weixin.qq.com/s/c52Ca4g0USzSIRXSEq-t4w) provided some insi
 ## Step by Step⏪
 
 PROMPT:
-```
+```markdown
 Q: How many "r" in "strawberry"?
 Q: What about "b" in "blubbery"?
 Q: What about "i" in "supercalifragilisticexpialidocious"?
@@ -30,7 +30,7 @@ Hint: THIS is a rather simple problem for human beings, but for you, an AI model
 ```
 
 ANSWER:
-```
+```markdown
 Sure, let's break this down step by step:
 
 ### "strawberry"
@@ -57,7 +57,7 @@ Summary:
 ## Tool Use🔨
 
 PROMPT:
-```
+```markdown
 Q: How many "r" in "strawberry"?
 Q: What about "b" in "blubbery"?
 Q: What about "i" in "supercalifragilisticexpialidocious"?
@@ -66,13 +66,13 @@ Hint: Hint: THIS is a rather simple problem for human beings, but for you, an AI
 ```
 
 ANSWER:
-```
+```markdown
 There are 3 "r"s in "strawberry".
 There are 3 "b"s in "blubbery".
 There are 7 "i"s in "supercalifragilisticexpialidocious". ​
 
 PROMPT:
-```
+```markdown
 Q: How many "r" in "strawberry"?
 Q: What about "b" in "blubbery"?
 Q: What about "i" in "supercalifragilisticexpialidocious"?
@@ -81,8 +81,10 @@ Hint: YOU are a Computer Programmer, SO use any tool at your convenience.
 ```
 
 ANSWER:
-```
+```markdown
+
 - "strawberry" contains 3 "r"s.
 - "blubbery" contains 3 "b"s.
 - "supercalifragilisticexpialidocious" contains 7 "i"s.
+
 ```
