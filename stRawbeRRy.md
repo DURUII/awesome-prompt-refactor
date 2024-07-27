@@ -70,6 +70,7 @@ ANSWER:
 There are 3 "r"s in "strawberry".
 There are 3 "b"s in "blubbery".
 There are 7 "i"s in "supercalifragilisticexpialidocious". ​
+```
 
 PROMPT:
 ```markdown
