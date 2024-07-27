@@ -1,6 +1,6 @@
 # stRawbeRRy
 
-THE PROBLEM "" has gone viral recently. Here is what I tried.
+The Letter Counting Problem has recently gone viral. Here's my attempt at it.
 
 PROMPT:
 ```
@@ -16,7 +16,7 @@ There are 2 "b"s in "blubbery".
 There is 1 "i" in "supercalifragilisticexpialidocious".
 ```
 
-AND I saw it from [Wechat Subscription](https://mp.weixin.qq.com/s/c52Ca4g0USzSIRXSEq-t4w) post minutes ago. I got insights in the post and add hints in my prompt.
+The [post](https://mp.weixin.qq.com/s/c52Ca4g0USzSIRXSEq-t4w) provided some insights, which helped me add hints in my prompt.
 
 ## Step by Step⏪
 
