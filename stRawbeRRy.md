@@ -62,7 +62,7 @@ Q: How many "r" in "strawberry"?
 Q: What about "b" in "blubbery"?
 Q: What about "i" in "supercalifragilisticexpialidocious"?
 
-Hint: Hint: THIS is a rather simple problem for human beings, but for you, an AI model, Tokenization and Jagged Intelligence may mislead you. SO think step by step to tackle this problem, or use Python as a tool.
+Hint: THIS is a rather simple problem for human beings, but for you, an AI model, Tokenization and Jagged Intelligence may mislead you. SO think step by step to tackle this problem, or use Python as a tool.
 ```
 
 ANSWER:
